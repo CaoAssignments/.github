@@ -2,4 +2,4 @@
 
 Note: assignments are not finalzied until we post their links on Canvas/Piazza/Edstem. 
 
-**Do not fork any starter code repos as they are visible to everyone.**
+**Do not fork any starter code repos as your code will be visible to everyone on the Internet.**
