@@ -1,5 +1,9 @@
-## Assignments for Courses Taught by Paul Cao at UCSD
+### Assignments for Courses Taught by Paul Cao at UCSD
 
-Note: assignments are not finalized until we post their links on Canvas/Piazza/Edstem. 
+> **Warning**
+> 
+> **Do not fork any starter code repos as your code will be visible to everyone on the Internet.**
 
-**Do not fork any starter code repos as your code will be visible to everyone on the Internet.**
+> **Note**
+> 
+> Assignments are not finalized until we post their links on Canvas/Piazza/Edstem. 
